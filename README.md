@@ -25,12 +25,3 @@ iValidate is a clean and responsive frontend web app that lets users validate th
 | Hosting      | GitHub Pages, Netlify         |
 | Tools        | VS Code, Live Server, Git     |
 
-
-``bash
-# 1. Clone the repository
-git clone https://github.com/your-username/iValidate.git
-
-# 2. Navigate into the folder
-cd iValidate
-
-# 3. Open index.html with Live Server or any browser
