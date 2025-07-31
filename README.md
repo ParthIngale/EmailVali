@@ -1,8 +1,8 @@
 # iValidate - Email Validator
 
-A modern, responsive web application for validating email addresses in real-time. Built with vanilla JavaScript, Bootstrap 5, and a sleek glassmorphism design.
+A modern, responsive web application for validating email addresses in real-time. Built with vanilla JavaScript, Bootstrap 5.
 
-![iValidate Demo](https://img.shields.io/badge/Status-Active-brightgreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ## ✨ Features
 
@@ -142,10 +142,6 @@ This project uses the [EmailValidation.io](https://emailvalidation.io/) API whic
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🐛 Known Issues
 
 - API key should be secured for production use
@@ -160,15 +156,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Dark/light theme toggle
 - [ ] User authentication
 - [ ] API usage analytics
-
-## 📞 Contact
-
-Created by [Your Name] - feel free to contact me!
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Website: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-⭐ If you found this project helpful, please give it a star!
